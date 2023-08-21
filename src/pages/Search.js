@@ -56,7 +56,7 @@ const Search = () => {
         </div>
       )}
       <Link to="/">
-        <button className="btn">Go back</button>
+        <button className="btn btnn">Go back</button>
       </Link>
     </div>
   );
